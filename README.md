@@ -26,5 +26,5 @@ Hello, my name is Aditi Podder. I am an Engineering Student at Kalinga Institute
 If you would like to contribute to this project, you can do so by creating a PR ; and to support my work, you can click on the projects you like and reward a star.
 
 # Socials
-1. Instagram :  [https://instagram.com/aditipd1/](Link)
-2. Github :  [https://github.com/aditi-pd1/](Link)
+1. Instagram :  [LINK](https://instagram.com/aditipd1/)
+2. Github :  [LINK](https://github.com/aditi-pd1/)
